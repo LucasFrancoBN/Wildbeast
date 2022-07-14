@@ -1,0 +1,20 @@
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  letter-spacing: -0.005rem;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.titulo {
+  color: #b07dfb;
+}
+.titulo h1 {
+  font-size: 3.75rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.titulo span {
+  font-size: 0.875rem;
+  font-style: italic;
+}

@@ -1,0 +1,7 @@
+.col-wide {
+  grid-column: 1 / -1;
+}
+
+.span2 {
+  grid-row: span 2;
+}
