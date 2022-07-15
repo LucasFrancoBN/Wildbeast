@@ -2,11 +2,11 @@ p {
   font-size: 1.2rem;
   line-height: 1.5;
   letter-spacing: -0.005rem;
-  color: rgba(0, 0, 0, 0.7);
+  color: var(--cor-enf-1);
 }
 
 .titulo {
-  color: #b07dfb;
+  color: var(--cor-enf-2);
 }
 .titulo h1 {
   font-size: 3.75rem;
@@ -15,6 +15,6 @@ p {
 }
 
 .titulo span {
-  font-size: 0.875rem;
+  font-size: 1rem;
   font-style: italic;
 }

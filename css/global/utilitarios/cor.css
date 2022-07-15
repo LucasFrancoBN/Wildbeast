@@ -1,0 +1,19 @@
+:root {
+  /* CORES DE ENFASE */
+  --cor-enf-1: rgba(21, 0, 64, 0.7);
+  --cor-enf-2: #5622a3;
+  --cor-enf-3: #6b36ba;
+  --cor-enf-4: #84e;
+  --cor-enf-5: #8e48ff;
+  --cor-enf-6: #b07dfb;
+  --cor-enf-7: #ddc9fb;
+  --cor-fundo: #fafbfc;
+  --cor-w: #ffffff;
+
+  /* GRADIENTES */
+  --gradiente: linear-gradient(135deg, var(--cor-enf-3), var(--cor-enf-5));
+  --gradiente-2: linear-gradient(135deg, var(--cor-enf-4), var(--cor-enf-6));
+
+  /*  SOMBRA */
+  --sombra: 2px 2px 5px 0px rgba(44, 44, 44, 0.15);
+}

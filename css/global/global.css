@@ -6,7 +6,7 @@
 
 body {
   font-family: "Vollkorn", Georgia, serif;
-  background: #fafbfc;
+  background: var(--cor-fundo);
 }
 
 ul {

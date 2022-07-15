@@ -2,8 +2,9 @@
 @import "./global/estrutura.css";
 @import "./global/utilitarios/gridAlter.css";
 @import "./global/utilitarios/tipografia.css";
+@import "./global/utilitarios/cor.css";
 @import "./global/header.css";
 @import "./global/sidenav.css";
 @import "./global/anuncios.css";
 @import "./global/footer.css";
-@import "./home/wolf.css";
+@import "./home/content.css";
